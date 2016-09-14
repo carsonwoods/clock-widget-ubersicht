@@ -1,5 +1,5 @@
-# clock-widget-Übersicht
-Simple plain text widget for Übersicht
+# Square-Clock-Widget
+Minimalist Square Clock Widget for Übersicht
 
 #How to Use
 1. Install Übersicht from http://tracesof.net/uebersicht/
